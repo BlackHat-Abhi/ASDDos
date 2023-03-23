@@ -49,7 +49,7 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 `apt-get update && apt-get install git python3 python3-pip`
 
-`https://github.com/abhi07500/ASDDos.git`
+`git clone https://github.com/abhi07500/ASDDos.git`
 
 `cd ASDDos`
 
@@ -61,7 +61,7 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 `apt update && apt install git python3 python3-pip`
 
-`https://github.com/abhi07500/ASDDos.git`
+`git clone https://github.com/abhi07500/ASDDos.git`
 
 `cd ASDDos`
 
