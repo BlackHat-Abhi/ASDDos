@@ -79,3 +79,17 @@ This Script it has a lot of methods in layer 7 and layer 4
 ### Telegram Channel : [Channel](https://t.me/BlackHat_HackerX)
 
 #### Enjoy This Script AaTmA !
+
+## CONNECT WITH US :
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blackhat_abhi)
+
+[![Instagram](https://img.shields.io/badge/TOOL-CODER-yellow?style=for-the-badge&logo=telegram)](https://T.me/BHaTakTi_AaTmA_Hu_Me)
+
+[![Instagram](https://img.shields.io/badge/TELEGRAM-GROUP-red?style=for-the-badge&logo=telegram)](https://t.me/HackerX_Termux_Help)
+
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/Blackhat_HackerX)
+
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://bit.ly/3ZdOp24)
+
+  
