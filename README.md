@@ -49,7 +49,7 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 `apt-get update && apt-get install git python3 python3-pip`
 
-`git clone [https://github.com/BlackHat-Abhi/ASDDos.git`
+`git clone https://github.com/BlackHat-Abhi/ASDDos.git`
 
 `cd ASDDos`
 
@@ -78,7 +78,7 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 ### Telegram Channel : [Channel](https://t.me/BlackHat_HackerX)
 
-#### Enjoy This Script AaTmA !
+#### Enjoy This Script B AaTmA !
 
 ## CONNECT WITH US :
 
